@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://yasertarek.github.io/stats-preview-component/)
+- Solution URL: [Solutuion URL](https://www.frontendmentor.io/solutions/htmlcss-stats-card-component-1bWkfvdnT)
+- Live Site URL: [Preview website](https://yasertarek.github.io/stats-preview-component/)
 
 ## My process
 
